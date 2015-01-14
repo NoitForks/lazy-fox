@@ -1,0 +1,8 @@
+# Content definitions.
+
+content      cloudgem      chrome/content/
+
+
+# Overlays.
+
+overlay chrome://browser/content/browser.xul chrome://cloudgem/content/cloudgem.xul
